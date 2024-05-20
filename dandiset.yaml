@@ -24,7 +24,8 @@ assetsSummary:
   variableMeasured: []
 citation: 'Silkuniene, Giedre; Kim, Vitalii; Pakhomov, Andrei (2024) High-frequency
   (100 kHz) rectangular bipolar pulses stimulation of individual hippocampal neurons:
-  the effect of electric field (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001031/draft'
+  the effect of electric field (Version 0.240520.1924) [Data set]. DANDI archive.
+  https://doi.org/10.48324/dandi.001031/0.240520.1924'
 contributor:
 - affiliation: []
   email: giedre.silkuniene@gmail.com
@@ -59,14 +60,15 @@ description: This dataset includes recordings of hippocampal neurons stimulated 
   constant at the indicated voltage. For the electrode configuration used, 1V corresponds
   to 36 V/cm. Neuron action potentials were visualized using the voltage-sensitive
   fluorescent dye, FluoVolt. This study was partially supported by NIH grant 15R21EY034803.
+doi: 10.48324/dandi.001031/0.240520.1924
 ethicsApproval: []
-id: DANDI:001031/draft
+id: DANDI:001031/0.240520.1924
 identifier: DANDI:001031
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001031/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001031/0.240520.1924/assets.yaml
 name: 'High-frequency (100 kHz) rectangular bipolar pulses stimulation of individual
   hippocampal neurons: the effect of electric field'
 protocol: []
@@ -87,8 +89,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001031/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001031/0.240520.1924
+version: 0.240520.1924
 wasGeneratedBy:
 - identifier: 5R21EY034803
   name: Next Generation Temporal Interference Stimulation for Non-Invasive Neuromodulation
